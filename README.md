@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/ORM-Sequelize-52B0E7?style=for-the-badge&logo=sequelize)](https://sequelize.org/)
-[![Postgres](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)](https://www.postgres.com/)
+[![Postgres](https://img.shields.io/badge/Database-Postgres-4479A1?style=for-the-badge&logo=mysql)](https://www.postgres.com/)
 [![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
 A comprehensive, professional web solution designed to digitize and streamline hostel operations. Built with modern technologies to deliver a seamless experience for both administrators and students.
